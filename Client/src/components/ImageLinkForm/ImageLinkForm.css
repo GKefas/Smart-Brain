@@ -1,0 +1,27 @@
+.center {
+    display: flex;
+    justify-content: center;
+
+}
+
+.detectBtn {
+    font-size: 1.3rem;
+    letter-spacing: 3px;
+    background-image: linear-gradient(to right, #5798d1, #000000);
+    transition: all 0.3s;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+.inputUrl {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+
+.inputUrl:focus {
+    outline: none;
+}

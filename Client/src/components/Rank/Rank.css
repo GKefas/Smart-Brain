@@ -1,0 +1,15 @@
+.shadowText {
+    color: rgb(199, 199, 199);
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+
+.rank-number {
+    font-size: 3.5rem;
+    color: rgba(230, 195, 0, 0.849);
+    text-shadow: 4px 2px 6px #000000;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
